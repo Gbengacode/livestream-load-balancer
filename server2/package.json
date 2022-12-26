@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "node-media-server": "^2.4.9",
+    "nodemon": "^2.0.20"
+  },
+  "name": "media-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbengacode/node-obs-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gbengacode/node-obs-server/issues"
+  },
+  "homepage": "https://github.com/Gbengacode/node-obs-server#readme"
+}
